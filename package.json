@@ -1,0 +1,35 @@
+{
+  "name": "hubot-tybg",
+  "description": "Displays a very rare, very based TYBG meme image",
+  "version": "0.0.1",
+  "author": "Desmond Morris <hi@desmondmorris.com>",
+  "license": "MIT",
+
+  "keywords": ["tybg"],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubot-scripts/hubot-tybg.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-tybg/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+
+  "main": "index.coffee"
+}
