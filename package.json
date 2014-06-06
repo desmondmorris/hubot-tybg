@@ -1,7 +1,7 @@
 {
   "name": "hubot-tybg",
   "description": "Displays a very rare, very based TYBG meme image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Desmond Morris <hi@desmondmorris.com>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-tybg.git"
+    "url": "git://github.com/desmondmorris/hubot-tybg.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-tybg/issues"
+    "url": "https://github.com/desmondmorris/hubot-tybg/issues"
   },
 
   "dependencies": {
