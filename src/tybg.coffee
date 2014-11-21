@@ -10,8 +10,6 @@
 memes = [
 	"http://images.rapgenius.com/c3248b31ebbee287ed0769609f735201.415x351x1.jpg",
 	"http://twilight.ponychan.net/chan/files/src/137806250423.jpg",
-	"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPLWbz1gg9sMHtH5nOsV-Td6Ty0mu9qFzRUYGVj7zFYXNbSU9d",
-	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2OY_IAchQaWjpxSocWVs0LagssX-6kSMDnFAEg3FbMCDvw27",
 	"http://troll.me/images/bender/robots-cant-pimp-sure-thumb.jpg",
 	"http://thefreshheir.files.wordpress.com/2011/08/tybg.jpg",
 	"http://37.media.tumblr.com/tumblr_lk4wg3j2BW1qhug7xo1_250.jpg",
