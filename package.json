@@ -1,7 +1,7 @@
 {
   "name": "hubot-tybg",
   "description": "Displays a very rare, very based TYBG meme image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Desmond Morris <hi@desmondmorris.com>",
   "license": "MIT",
 
