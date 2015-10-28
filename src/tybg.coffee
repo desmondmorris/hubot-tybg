@@ -9,8 +9,8 @@
 
 memes = [
 	"http://images.rapgenius.com/c3248b31ebbee287ed0769609f735201.415x351x1.jpg",
-	"http://twilight.ponychan.net/chan/files/src/137806250423.jpg",
-	"http://troll.me/images/bender/robots-cant-pimp-sure-thumb.jpg",
+	"http://memecrunch.com/meme/J0OT/thank-you-basedgod/image.jpg",
+	"https://uproxx.files.wordpress.com/2015/04/tybg-meme.jpg",
 	"http://thefreshheir.files.wordpress.com/2011/08/tybg.jpg",
 	"http://37.media.tumblr.com/tumblr_lk4wg3j2BW1qhug7xo1_250.jpg",
 	"http://24.media.tumblr.com/tumblr_li0w5uiwkk1qg3uqyo1_400.gif",
